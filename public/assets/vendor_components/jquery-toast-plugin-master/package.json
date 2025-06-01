@@ -28,8 +28,8 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "devDependencies": {
-  },
-  "scripts": {
+  "scripts": {},
+  "dependencies": {
+    "jquery-toast-plugin": "file:"
   }
 }

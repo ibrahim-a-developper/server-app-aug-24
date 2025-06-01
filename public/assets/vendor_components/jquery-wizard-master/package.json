@@ -21,18 +21,20 @@
   ],
   "devDependencies": {
     "grunt": "*",
-    "grunt-contrib-concat": "*",
+    "grunt-autoprefixer": "*",
     "grunt-contrib-clean": "*",
-    "grunt-contrib-watch": "*",
+    "grunt-contrib-concat": "*",
     "grunt-contrib-copy": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-csscomb": "*",
     "grunt-jsbeautifier": "*",
     "grunt-text-replace": "*",
-    "grunt-contrib-jshint": "*",
-    "grunt-contrib-uglify": "*",
-    "grunt-contrib-less": "*",
-    "grunt-csscomb": "*",
-    "grunt-autoprefixer": "*",
-    "load-grunt-tasks": "*",
-    "grunt-contrib-less": "*"
+    "load-grunt-tasks": "*"
+  },
+  "dependencies": {
+    "jquery-wizard": "file:"
   }
 }

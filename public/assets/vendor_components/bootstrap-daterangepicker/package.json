@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/dangrossman/bootstrap-daterangepicker",
   "dependencies": {
+    "bootstrap-daterangepicker": "file:",
     "jquery": ">=1.10",
     "moment": "^2.9.0"
   },
